@@ -31,11 +31,11 @@ Each exercise folder contains:
 🧪 Testing
 Run Python tests:
 ```
-python -m unittest tests.Spr.test
+python -m unittest "exercises-with-design-pattern/tests/Spr/test.py"
 ```
 Or from the test directory:
 
 ```
-cd tests/Spr
+cd exercises-with-design-pattern/tests/Spr
 python test.py
 ```
