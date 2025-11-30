@@ -36,5 +36,6 @@ python -m unittest tests.Spr.test
 Or from the test directory:
 
 ```
-cd tests/Sprpython test.py
+cd tests/Spr
+python test.py
 ```
