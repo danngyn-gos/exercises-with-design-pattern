@@ -28,7 +28,8 @@ exercises-with-design-pattern/
 Each exercise folder contains:
 - `main.py` - Python implementation to refactor
 
-🧪 Testing
+## 🧪 Testing
+
 Run Python tests:
 ```
 python -m unittest "exercises-with-design-pattern/tests/Spr/test.py"
